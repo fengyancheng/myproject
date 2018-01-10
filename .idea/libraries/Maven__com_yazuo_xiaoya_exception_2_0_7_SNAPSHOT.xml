@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yazuo.xiaoya:exception:2.0.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/exception/2.0.7-SNAPSHOT/exception-2.0.7-20171113.085838-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/exception/2.0.7-SNAPSHOT/exception-2.0.7-20171113.085838-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/exception/2.0.7-SNAPSHOT/exception-2.0.7-20171113.085838-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

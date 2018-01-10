@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yazuo.xiaoya.alipay.sdk:alipay-sdk:4.0.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/alipay/sdk/alipay-sdk/4.0.7-SNAPSHOT/alipay-sdk-4.0.7-20171113.103431-11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/alipay/sdk/alipay-sdk/4.0.7-SNAPSHOT/alipay-sdk-4.0.7-20171113.103431-11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/alipay/sdk/alipay-sdk/4.0.7-SNAPSHOT/alipay-sdk-4.0.7-20171113.103431-11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yazuo.xiaoya:coupons_api:1.0.9-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/coupons_api/1.0.9-SNAPSHOT/coupons_api-1.0.9-20170811.050943-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/coupons_api/1.0.9-SNAPSHOT/coupons_api-1.0.9-20170811.050943-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/coupons_api/1.0.9-SNAPSHOT/coupons_api-1.0.9-20170811.050943-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

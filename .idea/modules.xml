@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jcbz.iml" filepath="$PROJECT_DIR$/jcbz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcbz-dao/jcbz-dao.iml" filepath="$PROJECT_DIR$/jcbz-dao/jcbz-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcbz-service/jcbz-service.iml" filepath="$PROJECT_DIR$/jcbz-service/jcbz-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcbz-utils/jcbz-utils.iml" filepath="$PROJECT_DIR$/jcbz-utils/jcbz-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcbz-web/jcbz-web.iml" filepath="$PROJECT_DIR$/jcbz-web/jcbz-web.iml" />
+    </modules>
+  </component>
+</project>

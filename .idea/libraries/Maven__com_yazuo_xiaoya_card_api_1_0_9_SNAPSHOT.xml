@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yazuo.xiaoya:card_api:1.0.9-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/card_api/1.0.9-SNAPSHOT/card_api-1.0.9-20170807.084732-4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/card_api/1.0.9-SNAPSHOT/card_api-1.0.9-20170807.084732-4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yazuo/xiaoya/card_api/1.0.9-SNAPSHOT/card_api-1.0.9-20170807.084732-4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
